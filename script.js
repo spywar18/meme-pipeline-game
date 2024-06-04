@@ -74,3 +74,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
     startButton.addEventListener('click', createBoard);
 });
+
